@@ -50,6 +50,8 @@
                                         } else {
                                             echo "Ms.";
                                         }
+                                    } else {
+                                        echo "-";
                                     }
                                 ?>
                             </h3>
